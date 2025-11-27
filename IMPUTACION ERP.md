@@ -8,7 +8,8 @@
 - 27/11/2025
 	- Descanso 0.25h
 	- CH15 FiltrosCertificados 1.75h
-	- Lectura PRL, documentación Empresa confidencialidad, Política teletrabajo 4h
+	- Lectura PRL, documentación Empresa confidencialidad, Política teletrabajo 2h
+	- Creación e implementación de repositorio git desde Obsidian
 - 28/11/2025
 	- Descanso 0.25h
 	- 
