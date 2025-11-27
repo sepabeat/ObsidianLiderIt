@@ -63,6 +63,8 @@ Código
 C:\Users\TU_USUARIO\AppData\Local\Programs\Git\cmd\git.exe
 ```
 
+Recordar, abrir la bóveda de Obsidian abajo a la izquierda 
+- ![[Pasted image 20251127133452.png]] 
 ### C. Activar automatización
 
 - Vault backup interval: `10`
