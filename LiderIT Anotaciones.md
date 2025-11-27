@@ -1,0 +1,11 @@
+
+- [Control IT](https://controlit.es/#remotes) : gestión de fichajes, ausencias, bajas médicas y vacaciones.
+- [Portal Empleados](https://portalempleado.liderit.es/empleados/default.aspx?ReturnUrl=%2fempleados%2fMemberPages%2fconfiguser.aspx) /a: acceso centralizado a documentación corporativa y personal.
+- [- ERP](https://erp.liderit.es/) : registro y gestión de partes de trabajo.
+- GLPI: sistema interno de ticketing para la comunicación de incidencias y solicitudes de informática.
+- DDT: Documento Desarrollo Técnico
+- DSN: Desarrollo solución de negocio
+- Ciclo de Desarrollo Lider [Entornos en el cliente - Documentación LiderIT](http://sdesgh01:8080/desarrollo/Entornos/EntornosCliente/) 
+- Documentación Lider [Documentación LiderIT](http://sdesgh01:8080/) 
+- [[Conexión vpn desde fuera oficina a red interna]] poner VPN Lider
+- 
