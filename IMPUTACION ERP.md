@@ -12,4 +12,7 @@
 	- Creación e implementación de repositorio git desde Obsidian 2h
 - 28/11/2025
 	- Descanso 0.25h
-	- Comprensión de uso de GIT 2h
+	- Comprensión de uso de GIT 1.75h
+	- Estudio aplicación PowerToys 1h
+	- CH25-26 2h
+	- Mudanza 1h
