@@ -8,6 +8,7 @@ Tarea HA012
 - 
 
 
-CH15
+CH245-26
 
-- Falta agregar los filtros, que se pueda filtrar,
+
+bloquear pedido de venta, que no se pueda registrar, es en enviar

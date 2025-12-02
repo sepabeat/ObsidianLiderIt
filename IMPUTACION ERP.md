@@ -18,4 +18,10 @@
 
 - 01/11/2025
 	- Descanso 0.25h
+	- CH25-26 Mostrar comentarios de cliente en fac venta, pedido venta y albaran venta 2.75h
+	- CH11 2h  
+	- JGP2511281130 Actualizar tooltip 0.5
+	- CH25-28   0.5h
+- 02/11/2025
+	- Descanso 0.25h
 	- 
