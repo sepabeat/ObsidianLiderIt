@@ -24,4 +24,5 @@
 	- CH25-28   0.5h
 - 02/11/2025
 	- Descanso 0.25h
-	- 
+	- Uso de GLPI 1h
+	- Tarea JMIF2512021037 chalupa filtro fecha prometida albaranes 3h

@@ -8,4 +8,5 @@
 - Ciclo de Desarrollo Lider [Entornos en el cliente - Documentación LiderIT](http://sdesgh01:8080/desarrollo/Entornos/EntornosCliente/) 
 - Documentación Lider [Documentación LiderIT](http://sdesgh01:8080/) 
 - [[Conexión vpn desde fuera oficina a red interna]] poner VPN Lider
+- Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez
 - 

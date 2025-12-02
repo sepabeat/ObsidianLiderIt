@@ -8,7 +8,9 @@ Tarea HA012
 - 
 
 
-CH245-26
-
-
-bloquear pedido de venta, que no se pueda registrar, es en enviar
+field(5791; "Promised Receipt Date"; Date)
+        {
+            Caption = 'Promised Receipt Date';
+            Editable = false;
+        }
+pag 528 agregar el filtro Hist. líns. albs. compra 528
