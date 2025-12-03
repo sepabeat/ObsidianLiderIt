@@ -1,15 +1,5 @@
 
 
-- 26/11/2025
-	- Descanso 0.25h
-	- CH20 3h.
-	- CH22 0.75h
-	- CH15 2h
-- 27/11/2025
-	- Descanso 0.25h
-	- CH15 FiltrosCertificados 1.75h
-	- Lectura PRL, documentación Empresa confidencialidad, Política teletrabajo 2h
-	- Creación e implementación de repositorio git desde Obsidian 2h
 - 28/11/2025
 	- Descanso 0.25h
 	- Comprensión de uso de GIT 1.75h
@@ -24,5 +14,10 @@
 	- CH25-28   0.5h
 - 02/11/2025
 	- Descanso 0.25h
-	- Uso de GLPI 1h
-	- Tarea JMIF2512021037 chalupa filtro fecha prometida albaranes 3h
+	- Uso de GLPI 0.75h
+	- Tarea JMIF2512021037 chalupa filtro fecha prometida albaranes 4.75h
+	- Llamada Teams coordinación Equipo Desarrollo lider Sevilla 0.25h
+- 03/11/2025
+	- Descanso 0.25h
+	- CH20 ajustes 2.75h
+	- CH Incidencia transporte carta portes y facturación 3h
