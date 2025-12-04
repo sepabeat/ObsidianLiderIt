@@ -21,3 +21,11 @@
 	- Descanso 0.25h
 	- CH20 ajustes 2.75h
 	- CH Incidencia transporte carta portes y facturación 3h
+- 04/11/2025
+	- Descanso 0.25h
+	- Creación de rama personal para modificar y aprender 1h
+	- CH-21 Carta de portes 4.75h
+- 05/11/2025
+	- Descanso 0.25h
+	- CH-21 Carta de portes 
+	- CH-007 
