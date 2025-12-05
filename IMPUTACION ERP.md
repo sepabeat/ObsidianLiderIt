@@ -27,5 +27,8 @@
 	- CH-21 Carta de portes 4.75h
 - 05/11/2025
 	- Descanso 0.25h
-	- CH-21 Carta de portes 
+	- CH-21 Carta de portes 1h
 	- CH-007 
+	- Parcheo RunAsTool con Helpdesk 0.75h
+	- Unnox acceso git creación archivos base 1h
+	- 
