@@ -50,5 +50,9 @@
 	- CH Agregar funcionalidad de abrir Pedido Venta desde Albaranes venta 1h
 - 12/12/2025
 	- Descanso 0.25h
+	-  CH-A028-A029 1.75h
+	- CH-A-035.Pedido venta-Albarán venta (kg/merma) 4h
+- 15/12/2025
+	- Descanso 0.25h
 	- 
 	

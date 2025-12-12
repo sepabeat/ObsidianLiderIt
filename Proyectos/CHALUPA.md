@@ -26,8 +26,25 @@ Cuando marco en un pedido compra el check "no conformidad" se abre la venta para
 Agregar el campo del COD debajo de la descripción
 
 
-CH-A-028 CH-A-029
-Falta por publicar en Desarrollo para comprobar cambios
+CH-A-028 CH-A-029 Hecho merge a desarrollo el 12/12, tarea completa
+Son Pedidos de Compra
 
-![[Pasted image 20251211092628.png]]
+
+
 ![[Pasted image 20251211100901.png]] 
+![[Pasted image 20251212081827.png]]
+
+
+**CH-A-035.Pedido venta-Albarán venta (kg/merma)**
+
+- Tanto en el pedido de venta como en el albarán de venta, necesitamos crear un campo que sea "kg/merma", actualmente existe uno que es "% descuento merma", pero se necesita registrar esa merma tanto en % como en kg. El cálculo de este nuevo campo sigue la misma lógica que el otro pero sin aplicarle el porcentaje. Además, una vez creado, también se requiere sacar ambos campos ("kg/merma" y "% descuento merma") en la página "Posted Sales Shipment Lines (525, List)" y que sean filtrables.
+- 
+	- Pedido de venta Tabla "Sales Line" 37 y pag "Sales Order Subform" el campo se llama DtoMerma_LDR 50002 Decimal 
+	- De albaranes venta. "Posted sales Shpt. Subform" y tabla "Sales Shiptment Line"
+	- Posted Sales Shipment Lines (525, List)
+	- He modificado también EventosCodeunitLDR.Codeunit.al en concreto el último eventsubscriber "AfterSalesShptLineInsert"
+- En realidad el valor del campo KG/Merma tiene que ser = (Cantidad - Cantidad Recibida)
+
+%Descuento merma, actualizar información al pedido cuando se modifica desde el albaran de venta
+
+Durante el proceso hemos visto que en el pedido no se actualiza %descuentoMerma, hay que arreglarlo. De momento en Albarán sí que está todo realizado y en la rama Git CH-A-035
