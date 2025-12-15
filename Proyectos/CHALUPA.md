@@ -48,3 +48,10 @@ Son Pedidos de Compra
 %Descuento merma, actualizar información al pedido cuando se modifica desde el albaran de venta
 
 Durante el proceso hemos visto que en el pedido no se actualiza %descuentoMerma, hay que arreglarlo. De momento en Albarán sí que está todo realizado y en la rama Git CH-A-035
+
+Solucionado e incorporado a desarrollo
+
+**CH-A-036.Factura**
+
+Hist fact venta
+AV400643

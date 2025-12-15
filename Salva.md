@@ -19,4 +19,4 @@ Notas Salva
 -  Un programa muy bueno para aumentar las funcionalidades de Windows es Microsoft PowerToys (lanzador rápido/buscador como en Apple) usando Alt + Espacio
 	- Color Picker pulsando Win + Shift + C
 - 
-- 
+- A día de 15 de diciembre (a partir de este dia) me faltan 11'2 días de trabajo reales, un total de 67h. Quitando el día 26 de diciembre que no vengo según el FP, justo terminaría el último día esas 0'2 correspondientes, que es 1'20 hora.  El día 05 de Enero ÚLTIMO DIA PRÁCTICAS

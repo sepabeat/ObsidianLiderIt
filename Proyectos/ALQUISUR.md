@@ -37,3 +37,4 @@ Claudia muy buenas, llevo toda la mañana intentando localizar el código que ti
 La rama que tiene este cambio con respecto al report se llama "ReportContactoAlbaranes".
 
 No se ha subido la tarea a rama main, está en la subrama. Que está actualizada según origin/desarrollo 
+

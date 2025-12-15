@@ -54,5 +54,10 @@
 	- CH-A-035.Pedido venta-Albarán venta (kg/merma) 4h
 - 15/12/2025
 	- Descanso 0.25h
+	- CH-A-035.Pedido venta-Albarán venta (kg/merma) 2.75h
+	- Alquisur conflicto de ramas 1h
+	- CH-A-036.Factura 2h
+- 16/12/2025
+	- Descanso 0.25h
 	- 
 	
