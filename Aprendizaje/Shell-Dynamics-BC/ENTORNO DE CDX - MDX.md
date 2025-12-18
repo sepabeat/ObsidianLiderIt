@@ -188,7 +188,7 @@ app.json
 ```
 
 Importante:
-**DEPENDENCIAS** de Chalupa, apps descarga de la tienda LINKs (Cambiar TENANTID y NOMBRE_ENTORNO por el correspondiente)
+**DEPENDENCIAS** de Chalupa, apps descarga de la tienda LINKs (Cambiar TENANTID y NOMBRE_ENTORNO por el correspondiente), el primer enlace tiene a modo de ejemplo mi tenant y el entorno "UTY".
 
 TC-Core
 https://businesscentral.dynamics.com/CRMbc727119.onmicrosoft.com/UTY?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27bc804f5a-e849-4369-aaa7-bb44ce5ea2af%27&signInRedirected=1
@@ -198,3 +198,9 @@ https://businesscentral.dynamics.com/[TENANTID]/[NOMBRE_ENTORNO]?aid= FIN&page=2
 
 TC-FTP
 https://businesscentral.dynamics.com/[TENANTID]/[NOMBRE_ENTORNO]?aid= FIN&page=2503&filter=%27ID%27%20IS%20%27fb9f1c25-c1a1-4524-859a-26157abd2e58%27&signInRedirected=1
+
+
+
+
+==Ya tengo prácticamente todo lo del CDX operativo, falta cuadrar las versiones de las extensiones, instalando los .app directamente en el cliente web, una vez tenga eso ya podré usarlo. Esto de Chalupa==
+

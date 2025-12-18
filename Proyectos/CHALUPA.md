@@ -20,13 +20,13 @@ Botón Preparar dentro de preparar no tiene tooltip
 
 
 
-**CH - A -007** - AgregarCampoCod
+==**CH - A -007** - AgregarCampoCod==
 Cuando marco en un pedido compra el check "no conformidad" se abre la venta para poner la descripción y elegir que tipo de incidencia es. Mostrar en la cabecera del pedido de compra, debajo del campo descripción, el campo descripción de la incidencia (en el caso que se la haya abierto una)  
 
 Agregar el campo del COD debajo de la descripción
 
 
-CH-A-028 CH-A-029 Hecho merge a desarrollo el 12/12, tarea completa
+==CH-A-028 CH-A-029== Hecho merge a desarrollo el 12/12, tarea completa
 Son Pedidos de Compra
 
 
@@ -35,7 +35,7 @@ Son Pedidos de Compra
 ![[Pasted image 20251212081827.png]]
 
 
-**CH-A-035.Pedido venta-Albarán venta (kg/merma)**
+==**CH-A-035.Pedido venta-Albarán venta (kg/merma)**==
 
 - Tanto en el pedido de venta como en el albarán de venta, necesitamos crear un campo que sea "kg/merma", actualmente existe uno que es "% descuento merma", pero se necesita registrar esa merma tanto en % como en kg. El cálculo de este nuevo campo sigue la misma lógica que el otro pero sin aplicarle el porcentaje. Además, una vez creado, también se requiere sacar ambos campos ("kg/merma" y "% descuento merma") en la página "Posted Sales Shipment Lines (525, List)" y que sean filtrables.
 - 
@@ -51,9 +51,21 @@ Durante el proceso hemos visto que en el pedido no se actualiza %descuentoMerma,
 
 Solucionado e incorporado a desarrollo
 
-**CH-A-036.Factura**
+
+==**CH-A-036.Factura**==
 
 Hist fact venta
 
 
-CH - 025 - 025
+==CH - 025 - 025==
+
+==CH - A - 039 ImporteCantidadRecibida==
+
+El código a modificar es en el archivo SalesLineLDR.TableExt.al (CantidadRecibida_LDR en el OnValidate) y EventosCodeunitLDR.Codeunit.al. 
+No funciona el campo Importe según cantidad recibida, de momento en la línea del pedido de venta no sale actualizado el valor si cantidad recibida tiene algo distinto de 0 no lo está usando, sigue usando cantidad.. Ejemplo que funciona las dos siguientes capturas.
+
+43000184 ∙ DISTAC, S. A.
+
+![[Pasted image 20251218130115.png]]
+
+![[Pasted image 20251218130146.png]]

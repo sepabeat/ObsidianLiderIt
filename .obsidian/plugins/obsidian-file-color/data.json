@@ -40,7 +40,7 @@
     {
       "id": "7ISbDnLNlArjtJt8qFEcb",
       "name": "aceituna",
-      "value": "#7acc00"
+      "value": "#78ae29"
     },
     {
       "id": "M8rjIg4WpFnNxRgZVn8VO",
@@ -124,6 +124,10 @@
     {
       "path": "Aprendizaje/WorkFlow BC",
       "color": "uaBBoW0PLqino4pG1xEn8"
+    },
+    {
+      "path": "Ideas Salva funciones extra BC.md",
+      "color": "7ISbDnLNlArjtJt8qFEcb"
     }
   ]
 }

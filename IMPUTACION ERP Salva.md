@@ -68,5 +68,6 @@
 	- Migración de Nube a CDX, importar dependencias 3.75h
 - 18/12/2025
 	- Descanso 0.25h.
-	- 
+	- Configuración CDX dependencias Chalupa 3.75h 
+	- CH-A - 039 2h
 	
