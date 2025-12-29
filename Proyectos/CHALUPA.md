@@ -1,4 +1,5 @@
 Link Chalupa BC-->  [Dynamics 365 Business Central (PR)](https://businesscentral.dynamics.com/b4be8f5e-c104-4fa9-a40f-f8256b71056d/Desarrollo?company=Andaluzas%20de%20Sales%203&dc=0) 
+Link BC CDX Chalupa --> https://businesscentral.dynamics.com/1854fb16-e91a-410f-bb19-e2fb2e1aa10c/DesarrolloVS
 
 Todo viene de un pedido de venta, Ficha preparación, albaranes venta, expedición, listado de transportes 
 relacionar linea de transportes con pedido de compras, cuando se vaya a registrar un pedido de compra que tenga transporte, y que este transporte tenga la carta de porte firmada, deja facturar, si no no

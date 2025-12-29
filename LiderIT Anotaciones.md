@@ -9,6 +9,8 @@
 - Documentación Lider [Documentación LiderIT](http://sdesgh01:8080/) 
 - [[Conexión vpn desde fuera oficina a red interna]] poner VPN Lider
 - Para incidencias de acceso, hablar con cargos HelpDesk en Teams como por ejemplo Carlos Alfonso Navarro o Juan José Menendez
+- Leer documentación --> https://www.liderit.es/spec-driven-development-del-caos-al-rigor-en-la-era-de-la-ia/ 
+- Programa para Acceder a clientes BC "FortiClient VPN"
 
 
 ### Buenas Prácticas Lider

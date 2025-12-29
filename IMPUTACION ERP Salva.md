@@ -90,5 +90,8 @@
 	- Desarrollo favoritos para agilizar trabajo 4h
 - 29/12/2025
 	- Descanso 0.25h
+	- Ordenado Repositorio y Obsidian, limpieza de archivos 1.75
+	- HA021 Clonación de Entorno de Producción y habilitación de características 1h
+	- Comprensión desarrollo Global Roseta Getronix para reutilizar código en Arruzafa 2h
 	- 
 	
