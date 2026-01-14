@@ -135,7 +135,8 @@
 	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 4h 
 - 14/01/2026
 	- Descanso 0.25h
-	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 1h (hay disponibles 4h más)
+- HA010 
 
 
 

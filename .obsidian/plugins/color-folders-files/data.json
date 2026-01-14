@@ -1,0 +1,36 @@
+{
+  "styles": {
+    "Personal": {
+      "backgroundColor": "#86fe8e",
+      "textColor": "#000000",
+      "isBold": true
+    },
+    "Proyectos": {
+      "backgroundColor": "#fed462",
+      "isBold": true,
+      "textColor": "#000000"
+    },
+    "Lider - Config": {
+      "backgroundColor": "#ff932e",
+      "isBold": true,
+      "textColor": "#000000"
+    },
+    "Consultoria": {
+      "backgroundColor": "#ffa8f3",
+      "isBold": true,
+      "textColor": "#000000"
+    },
+    "Aprendizaje Python Odoo": {
+      "backgroundColor": "#5c77ff",
+      "isBold": true,
+      "textColor": "#000000"
+    },
+    "Aprendizaje BC AL": {
+      "backgroundColor": "#9ffef3",
+      "textColor": "#000000",
+      "isBold": true
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
