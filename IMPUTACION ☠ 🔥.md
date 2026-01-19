@@ -150,8 +150,18 @@
 - 16/01/2026
 	- Descanso 0.25h
 	- Primera hora, configurar interfaz BC, actualizar #regions código limpieza de código de todos los archivos de Arruzafa esto no tiene tarea 
-	- HA001 N43 pruebas 2.75h ❌🔥 Andrés no ha creado tarea
-	- HA019 Configuración productos con desglose de código GTIN 3h
+	- HA001 N43 pruebas 3h
+	- HA019 Configuración productos con desglose de código GTIN 2.75h
+- 19/01/2026
+	- Descanso 0.25h
+	- LDR-I-26-01009 Incidencia Hutesa Acceso a repositorio comprobar Dependencias IEPNR 0.5h
+	- HA009  extracción GTIN para la Configuración de productos con autoasignación a relaciones 3h
+	- HA019 reconocimiento de distintos tipos de códigos a escanear, S128, GN1... 2.75h
+	- HA022 reconocimiento de distintos tipos de códigos a escanear, S128, GN1... 2 h
+- 20/01/2026
+	- Descanso 0.25h
+	- HA019
+	- HA022 
 
 
 
@@ -159,5 +169,5 @@
 
 
 - Días 08 y 07 de enero, yo ya trabajé 8'5h pero solo me dejaban imputar en ERP 6 horas. Dos semanas después lo actualizaron a 8'5h pero pasado un día no puedo imputar lo anterior.
-- 16/01/2026 HA001 N43 pruebas 2.75h ❌🔥 Andrés no ha creado tarea
+- 
 - 
