@@ -167,7 +167,12 @@
 	- HA001 Pruebas con archivo Caixa proporcionado por el cliente con las consecutivas modificaciones de código. 1.5h
 - 21/01/2026
 	- Descanso 0.25h
-	- 
+	- HA001 Pruebas con archivo Caixa proporcionado por el cliente con las consecutivas modificaciones de código y configuración (y aprendizaje) de los movimientos bancarios en BC. 3h
+	- HA005 Pruebas para importar archivo de nóminas 3.25h
+	- Limpieza de warnings Arruzafa 2h
+- 22/01/2026
+	- Descanso 0.25h
+	- Limpieza de warnings Arruzafa 
 
 
 

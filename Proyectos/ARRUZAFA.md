@@ -30,8 +30,7 @@ Mergeado a rama Desarrollo
 
 En un principio van a utilizarse sólo archivos .txt con los movimientos de los bancos para la prueba de este desarrollo.
 
-Dudas con respecto a este desarrollo:
-- 
+Todo funciona a fecha de 21/01/2026
 
 ### HA005
 - Pag Importar Nóminas
@@ -46,8 +45,11 @@ Dudas con respecto a este desarrollo:
 	- PayrollImportMgtArruzafaLDR.Codeunit.al
 	- PayrollImportArruzafaLDR.Page.al
 	- PayrollImportHistoryArruzafa.Page.al
-- Ojito cuidao, he mergeado la rama HA005 a Desarrollo, seguramente necesite modificaciones, modificar en la rama y luego volver a hacer merge con los cambios.
-- 
+	-
+de importar nominas a Diario general --> nóminas (lista libros diario general) --> Diarios generales (general jorunal) --> sección IMPNOM, a nivel de línea es donde tendría que aparecer las nóminas importadas
+
+Ahora mismo se importa el archivo y se crean las líneas, falta poder comprobar si los valores se adjudican correctamente a los campos correspondientes (hacen falta conocimientos contables)
+
 ### HA009
 - Rama Git HA009-MatrixDiarioProducto
 - Archivos usados para este desarrollo: 
