@@ -65,6 +65,7 @@ Ahora mismo se importa el archivo y se crean las líneas, falta poder comprobar 
 
 ### HA019
 
+Pedido Compra
 Importado desarrollo de Global Rosetta, archivos creados: 
 
 PurchaseLineLDR.TableExt.al 

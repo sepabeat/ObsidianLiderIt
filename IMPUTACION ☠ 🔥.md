@@ -172,7 +172,10 @@
 	- Limpieza de warnings Arruzafa 2h
 - 22/01/2026
 	- Descanso 0.25h
-	- Limpieza de warnings Arruzafa 
+	- Limpieza de warnings Arruzafa y traducciones 4h
+	- Búsqueda error intercompany Unnox 1h
+	- Documentación sobre escáner Honeywell Voyager 1400g de Arruzafa, a repartir entre las 3 tareas HA009, 0019, 0022   3h
+	- 
 
 
 
