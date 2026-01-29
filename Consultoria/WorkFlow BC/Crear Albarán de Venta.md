@@ -1,0 +1,1 @@
+Dentro de pedido de venta --> crear envío de almacén, esto abre una página con la info de pedido de venta, y después cuando se registra el envío de almacén, se genera automáticamente el albarán de venta

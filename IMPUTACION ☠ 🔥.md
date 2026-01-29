@@ -193,6 +193,11 @@
 	- Descanso 0.25h
 	- HA019 Eliminados Debug, agregadas traducciones, supresión de errores para introducir datos manualmente con códigos con formato extraño 4h
 	- HA022 Test post merge de los cambios en HA019 1h
+	- Formación Power Automate 3.25h ❗
+- 29/01/2026
+	- Descanso 0.25h
+	- InterCompany UX-F005E 8h
+	- Organización reunión consultores colorimetría estados Entornos entre empresas.  0.25h
 	- 
 
 
