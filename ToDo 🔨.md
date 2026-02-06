@@ -1,10 +1,10 @@
-
-
+En el último commit se han incluido mensajes de debug para copiar/pegar a la IA, para que pueda traquear la información que se está reteniendo con respecto a la lin seguin prod. <mark style="background: #BBFABBA6;">Seguir por aqui</mark> Esto con respecto al RF008 para terminar los requisitos.
 
 hacer lo del ninja
 
-Traducciones a Español --> Mensajes debug
-Purchase Order PC400084 created and sent via IC for Sales Order PV400136.
+Traducciones a Francés --> Prompt para Cline 
+Necesito que traduzcas, en este archivo "Unnox.fr-FR.xlf", todas las líneas que tienen <target state="needs-translation"/> y que las reemplaces por <target>TRADUCCIÓN DE LA LÍNEA ANTERIOR AL FRANCÉS</target>
+Ve haciéndolo poco a poco, donde he puesto TRADUCCIÓN DE LA LÍNEA ANTERIOR AL FRANCÉS, me refiero a literalmente que traduzcas la frase de la línea anterior que actualmente está en inglés, pero al Francés. Ve poco a poco
 
 
 
